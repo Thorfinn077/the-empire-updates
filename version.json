@@ -1,13 +1,15 @@
 {
-  "version": "1.24.1",
-  "title": "THE EMPIRE 1.24.1",
-  "notes": "Splash de bienvenida, boton Omitir, logo y mejoras.",
+  "version": "1.25.0",
+  "title": "THE EMPIRE 1.25.0",
+  "notes": "Aviso de actualizaciones, splash, pack de core y mejoras.",
   "changelog": [
-    "Splash epico al terminar el onboarding",
-    "Boton Omitir en el splash",
-    "Marca de agua con logo transparente"
+    "Aviso si hay una versión nueva (GitHub)",
+    "Botón en Más → Buscar actualización",
+    "Splash al terminar el perfil",
+    "Pack de core en el día que elijas",
+    "Marca de agua y mejoras de técnica"
   ],
-  "apkUrl": "https://github.com/Thorfinn077/the-empire-updates/releases/download/v1.24.1/THE-EMPIRE.apk",
+  "apkUrl": "https://github.com/Thorfinn077/the-empire-updates/releases/download/1.25.0/THE.EMPIRE.apk",
   "publishedAt": "2026-11-01",
   "force": false
 }
