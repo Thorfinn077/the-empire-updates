@@ -1,0 +1,13 @@
+{
+  "version": "1.24.1",
+  "title": "THE EMPIRE 1.24.1",
+  "notes": "Splash de bienvenida, boton Omitir, logo y mejoras.",
+  "changelog": [
+    "Splash epico al terminar el onboarding",
+    "Boton Omitir en el splash",
+    "Marca de agua con logo transparente"
+  ],
+  "apkUrl": "https://github.com/Thorfinn077/the-empire-updates/releases/download/v1.24.1/THE-EMPIRE.apk",
+  "publishedAt": "2026-11-01",
+  "force": false
+}
