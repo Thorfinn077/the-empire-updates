@@ -1,15 +1,15 @@
 {
-  "version": "1.25.0",
-  "title": "THE EMPIRE 1.25.0",
-  "notes": "Aviso de actualizaciones, splash, pack de core y mejoras.",
+  "version": "1.26.0",
+  "title": "THE EMPIRE 1.26.0",
+  "notes": "Videos de técnica por ejercicio, pack Core arreglado y mejor editor de rutina Pro.",
   "changelog": [
-    "Aviso si hay una versión nueva (GitHub)",
-    "Botón en Más → Buscar actualización",
-    "Splash al terminar el perfil",
-    "Pack de core en el día que elijas",
-    "Marca de agua y mejoras de técnica"
+    "150 videos de técnica asignados uno a uno a cada ejercicio",
+    "Pack Core 7 min: los ejercicios aparecen al instante en el editor",
+    "Cargar protocolo actual como base (sin regenerar desde el perfil)",
+    "Cargar solo la rutina desde un .json exportado (sin tocar rachas)",
+    "Mejoras en el editor Pro y sincronización del borrador"
   ],
-  "apkUrl": "https://github.com/Thorfinn077/the-empire-updates/releases/download/1.25.0/THE.EMPIRE.apk",
-  "publishedAt": "2026-11-01",
+  "apkUrl": "https://github.com/Thorfinn077/the-empire-updates/releases/download/1.26.0/THE.EMPIRE.apk",
+  "publishedAt": "2026-11-08",
   "force": false
 }
