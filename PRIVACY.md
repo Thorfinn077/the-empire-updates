@@ -1,9 +1,7 @@
 # Política de privacidad — THE EMPIRE
 
 **Última actualización:** 9 de noviembre de 2026  
-**Responsable:** desarrollador de THE EMPIRE  
-**Contacto (soporte / privacidad):** support.theempire@proton.me  
-**Negocios / prensa:** business.theempire@proton.me
+**Responsable:** desarrollador de THE EMPIRE
 
 ## 1. Qué es THE EMPIRE
 THE EMPIRE es una aplicación de calistenia y entrenamiento con peso corporal, pensada para uso principalmente offline. No requiere crear una cuenta ni iniciar sesión en un servidor propio.
@@ -54,4 +52,4 @@ Podemos actualizar este texto si cambia el funcionamiento de la app (por ejemplo
 
 ## 10. Contacto
 Para consultas sobre privacidad o soporte de la app: **support.theempire@proton.me**  
-Para negocios o prensa: **business.theempire@proton.me**
+Para negocios: **business.theempire@proton.me**
