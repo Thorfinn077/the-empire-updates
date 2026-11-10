@@ -1,15 +1,13 @@
 {
-  "version": "1.26.3",
-  "title": "THE EMPIRE 1.26.3",
-  "notes": "Videos por ejercicio, pack Core al instante, editor Pro, privacidad y contactos de soporte.",
+  "version": "1.26.7",
+  "title": "THE EMPIRE 1.26.7",
+  "notes": "Actualización in-app y videos de técnica.",
   "changelog": [
-    "150 videos de técnica, uno por ejercicio",
-    "Pack Core 7 min: se ve al instante en el editor",
-    "Cargar rutina actual o desde .json en Pro",
-    "Acerca de con privacidad, salud y versión",
-    "Soporte: support.theempire@proton.me · Negocios: business.theempire@proton.me"
+    "Descarga de APK desde la app",
+    "Banner y modal de actualización al inicio",
+    "Videos de técnica con mejor matching de nombres"
   ],
-  "apkUrl": "https://github.com/Thorfinn077/the-empire-updates/releases/download/1.26.3/THE.EMPIRE.apk",
-  "publishedAt": "2026-11-09",
+  "apkUrl": "https://github.com/Thorfinn077/the-empire-updates/releases/download/1.26.7/THE.EMPIRE.apk",
+  "publishedAt": "2026-11-10",
   "force": false
 }
