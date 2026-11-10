@@ -1,18 +1,18 @@
 {
-  "version": "1.26.10",
-  "title": "THE EMPIRE 1.26.10",
-  "notes": "Reiniciar semana más visible, carteles minimizables, explicación clara de A/B y contadores derivados por el sistema.",
+  "version": "1.26.18",
+  "title": "THE EMPIRE 1.26.18 — Centro de Control",
+  "notes": "Más se transformó en un Centro de Control: secciones colapsables, jerarquía clara y cero cajón desordenado. Menos ruido. Más poder.",
   "changelog": [
-    "Reiniciar semana: botón destacado en Más → Configuración (con explicación clara)",
-    "Frecuencia y descanso y Ayuda rápida: minimizables para no tapar la rutina",
-    "Explicación ampliada de Rutina A / B y patrones A–B–A · B–A–B",
-    "Series y logros se recalculan desde los datos reales (el sistema manda, no el .empire editado a mano)",
-    "Textos de la app sin menciones técnicas de empaquetado",
-    "Archivos .empire (backup y rutina libre) desde 1.26.9",
-    "Sonidos, vibración y mensajes motivacionales (desde 1.26.8)",
-    "Actualización in-app con descarga directa del APK (desde 1.26.7)"
+    "Centro de Control en Más con 7 secciones colapsables",
+    "Actualizaciones, Backup, Preferencias, Semana y días",
+    "Contacto, Acerca de y Zona peligrosa",
+    "Preferencias divididas: Apariencia + Feedback/motivación",
+    "Abrís solo lo que necesitás — menos scroll, más orden",
+    "Visual más limpio y coherente con el resto de la app",
+    "Sin romper backup, rutinas Pro ni el sistema de updates"
   ],
-  "apkUrl": "https://github.com/Thorfinn077/the-empire-updates/releases/download/1.26.10/THE.EMPIRE.apk",
-  "publishedAt": "2026-11-10",
-  "force": false
+  "apkUrl": "https://github.com/Thorfinn077/the-empire-updates/releases/download/v1.26.18/THE-EMPIRE-1.26.18.apk",
+  "minVersion": "1.0.0",
+  "force": false,
+  "publishedAt": "2026-11-10"
 }
