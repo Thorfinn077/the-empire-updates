@@ -1,18 +1,18 @@
 {
-  "version": "1.26.8",
-  "title": "THE EMPIRE 1.26.8",
-  "notes": "Sonidos y vibración más potentes, y un arsenal de mensajes motivacionales que no se repiten.",
+  "version": "1.26.10",
+  "title": "THE EMPIRE 1.26.10",
+  "notes": "Reiniciar semana más visible, carteles minimizables, explicación clara de A/B y contadores derivados por el sistema.",
   "changelog": [
-    "Sonidos de serie y cierre de día más fuertes y con más presencia",
-    "Vibración háptica reforzada al marcar series y completar el día",
-    "Casi 100 mensajes motivacionales aleatorios sin repetir seguido",
-    "Aviso motivacional al abrir la app (una vez por día) y al cerrar el entrenamiento",
-    "Controles nuevos en Más → Configuración: Sonido, Vibración y Mensajes",
-    "Botones para probar feedback y pedir permiso de avisos del sistema",
-    "Actualización in-app con descarga directa del APK (desde 1.26.7)",
-    "Videos de técnica con mejor coincidencia de nombres de ejercicios"
+    "Reiniciar semana: botón destacado en Más → Configuración (con explicación clara)",
+    "Frecuencia y descanso y Ayuda rápida: minimizables para no tapar la rutina",
+    "Explicación ampliada de Rutina A / B y patrones A–B–A · B–A–B",
+    "Series y logros se recalculan desde los datos reales (el sistema manda, no el .empire editado a mano)",
+    "Textos de la app sin menciones técnicas de empaquetado",
+    "Archivos .empire (backup y rutina libre) desde 1.26.9",
+    "Sonidos, vibración y mensajes motivacionales (desde 1.26.8)",
+    "Actualización in-app con descarga directa del APK (desde 1.26.7)"
   ],
-  "apkUrl": "https://github.com/Thorfinn077/the-empire-updates/releases/download/1.26.8/THE.EMPIRE.apk",
+  "apkUrl": "https://github.com/Thorfinn077/the-empire-updates/releases/download/1.26.10/THE.EMPIRE.apk",
   "publishedAt": "2026-11-10",
   "force": false
 }
