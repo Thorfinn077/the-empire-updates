@@ -11,7 +11,7 @@
     "Visual más limpio y coherente con el resto de la app",
     "Sin romper backup, rutinas Pro ni el sistema de updates"
   ],
-  "apkUrl": "https://github.com/Thorfinn077/the-empire-updates/releases/download/v1.26.18/THE-EMPIRE-1.26.18.apk",
+  "apkUrl": "https://github.com/Thorfinn077/the-empire-updates/releases/download/v1.26.18/THE.EMPIRE.apk",
   "minVersion": "1.0.0",
   "force": false,
   "publishedAt": "2026-11-10"
