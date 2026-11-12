@@ -1,18 +1,17 @@
 {
-  "version": "1.26.18",
-  "title": "THE EMPIRE 1.26.18 — Centro de Control",
-  "notes": "Más se transformó en un Centro de Control: secciones colapsables, jerarquía clara y cero cajón desordenado. Menos ruido. Más poder.",
+  "version": "1.26.24",
+  "title": "THE EMPIRE 1.26.24 — Menos ruido. Más verdad.",
+  "notes": "Inicio limpio sin cajas de stats que se repetían. Meta semanal clara, progreso por días cerrados de verdad, sesión más enfocada.",
   "changelog": [
-    "Centro de Control en Más con 7 secciones colapsables",
-    "Actualizaciones, Backup, Preferencias, Semana y días",
-    "Contacto, Acerca de y Zona peligrosa",
-    "Preferencias divididas: Apariencia + Feedback/motivación",
-    "Abrís solo lo que necesitás — menos scroll, más orden",
-    "Visual más limpio y coherente con el resto de la app",
-    "Sin romper backup, rutinas Pro ni el sistema de updates"
+    "Inicio sin cajas de Racha, Sesiones, Series, Semanas y Logros",
+    "Una línea de progreso: días de entrenamiento cerrados",
+    "Coach con protocolo y meta semanal (ej. 2/4)",
+    "Meta semanal: aviso cuando falta 1 día",
+    "Barra de sesión con ejercicios X/Y",
+    "Historial, rangos, cierre de semana y backup se mantienen"
   ],
-  "apkUrl": "https://github.com/Thorfinn077/the-empire-updates/releases/download/1.26.18/THE.EMPIRE.apk",
+  "apkUrl": "https://github.com/Thorfinn077/the-empire-updates/releases/download/1.26.24/THE.EMPIRE.apk",
   "minVersion": "1.0.0",
   "force": false,
-  "publishedAt": "2026-11-10"
+  "publishedAt": "2026-11-12"
 }
