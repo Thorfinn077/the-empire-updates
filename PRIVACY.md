@@ -1,55 +1,81 @@
 # Política de privacidad — THE EMPIRE
 
-**Última actualización:** 9 de noviembre de 2026  
-**Responsable:** desarrollador de THE EMPIRE
+**Última actualización:** 15 de noviembre de 2026  
+**Aplica a:** app THE EMPIRE (paquete `com.theempire.app` y el HTML empaquetado con AppMint)  
+**Contacto:** support.theempire@proton.me
 
-## 1. Qué es THE EMPIRE
-THE EMPIRE es una aplicación de calistenia y entrenamiento con peso corporal, pensada para uso principalmente offline. No requiere crear una cuenta ni iniciar sesión en un servidor propio.
+## 1. Quiénes somos
 
-## 2. Qué datos se guardan
-La app guarda en el **almacenamiento local de tu dispositivo** (por ejemplo el almacenamiento del WebView / localStorage):
+THE EMPIRE es una aplicación de calistenia desarrollada de forma independiente (un solo autor). No es un producto de una gran plataforma de fitness ni de MyFitnessPal u otras apps de nutrición.
 
-- Perfil de entrenamiento (nombre o apodo, nivel, objetivos, equipo, preferencias del onboarding)
-- Rutina activa y rutinas personalizadas (modo Pro)
-- Progreso de series, días completados, racha, logros y desafíos
-- Ajustes de la app (efectos visuales, contraste, etc.)
-- Copia de seguridad que vos generés al exportar
+## 2. Principio: offline-first
 
-Estos datos **permanecen en tu celular**. El desarrollador no tiene acceso remoto a ellos.
+El diseño de la app prioriza que **perfil, rutina y progreso vivan en el dispositivo del usuario**. No es obligatorio crear una cuenta en servidores de THE EMPIRE para entrenar.
 
-## 3. Qué no hacemos
-- No pedimos cuenta de correo ni contraseña para usar la app
-- No vendemos ni alquilamos datos personales
-- No usamos publicidad de terceros dentro de la app
-- No enviamos tu progreso, rachas ni rutinas a un servidor propio
-- No hacemos seguimiento de ubicación
+## 3. Datos que se almacenan en el dispositivo
 
-## 4. Uso de internet
-La app puede conectarse a internet solo para:
+Según el uso, la app puede guardar en almacenamiento local (por ejemplo `localStorage` / datos de la WebView), entre otros:
 
-1. **Videos de técnica (YouTube)**  
-   Al abrir “Ver técnica” se carga un video embebido de YouTube. YouTube (Google) puede procesar datos según su propia política de privacidad. Si no hay conexión, la ficha de técnica sigue disponible en texto (pasos, consejos, errores comunes).
+- Identificación de perfil (nombre o apodo, nivel)
+- Preferencias de entrenamiento (días, duración, equipo, lugar, zonas, lesiones declaradas)
+- Rutina (generada en el onboarding o personalizada / Pro)
+- Progreso (series, días cerrados, rachas, semanas, logros, desafíos)
+- Ajustes de interfaz (efectos visuales, color de acento, etc.)
 
-2. **Aviso de actualización**  
-   La app puede consultar un archivo público de versión alojado en GitHub (`version.json` del repositorio de actualizaciones) para avisar si hay una versión nueva y el enlace de descarga del APK. En esa consulta no se envía tu progreso ni datos de perfil.
+Estos datos **no se envían de forma automática** a un backend propio de THE EMPIRE.
 
-El resto de funciones (entrenar, timer, logros, editor Pro, backup local) funcionan sin internet.
+## 4. Datos que no buscamos
 
-## 5. Exportar e importar (backup)
-La función de exportar genera un archivo (por ejemplo `.json`) en tu dispositivo o en la ubicación que elijas. Vos controlás con quién compartís ese archivo. Al importar, los datos se leen solo en tu dispositivo.
+No operamos:
 
-## 6. Permisos
-Según cómo se empaquete la app (por ejemplo con herramientas Web-to-APK), el sistema puede mostrar permisos del WebView o de almacenamiento para guardar/abrir archivos de backup. No se solicitan permisos de cámara, micrófono ni ubicación para el funcionamiento normal de THE EMPIRE.
+- Venta de datos personales
+- Publicidad comportamental basada en tu entrenamiento
+- Red social interna ni perfiles públicos de usuarios
+- Cuenta cloud obligatoria
 
-## 7. Menores de edad
-THE EMPIRE no está dirigida de forma específica a menores de 13 años. Si un menor la usa, recomendamos supervisión de un adulto. El entrenamiento físico debe adaptarse a la edad y condición de cada persona.
+## 5. Uso de internet
 
-## 8. Responsabilidad sobre el entrenamiento
-La información y las rutinas son orientativas. Consultá a un profesional de la salud ante lesiones, dolor o condiciones médicas. El uso de la app es bajo tu propia responsabilidad.
+La app puede conectarse cuando corresponde para:
 
-## 9. Cambios en esta política
-Podemos actualizar este texto si cambia el funcionamiento de la app (por ejemplo nuevos servicios en red). La fecha de “última actualización” se modificará en consecuencia.
+1. **Videos de técnica** (YouTube u otros enlaces que abras). Ahí rigen las políticas del proveedor del video.
+2. **Comprobación de actualizaciones** del APK mediante archivos públicos del repositorio de updates en GitHub (`version.json` y Releases).
+3. Enlaces que el usuario decida abrir (documentación, correo, etc.).
 
-## 10. Contacto
-Para consultas sobre privacidad o soporte de la app: **support.theempire@proton.me**  
-Para negocios: **business.theempire@proton.me**
+Sin conexión, el entrenamiento y el historial local siguen siendo utilizables.
+
+## 6. Backups `.empire`
+
+El usuario puede **exportar e importar** un archivo de backup (`.empire`). Ese archivo contiene el estado necesario para restaurar el progreso.  
+
+- THE EMPIRE no sube ese archivo solo a la nube.  
+- Si lo guardás en Drive, correo u otro servicio, aplican las reglas de ese servicio.  
+- Quien posea el archivo puede restaurar esos datos en un dispositivo compatible.
+
+## 7. Salud y permisos del sistema
+
+Las rutinas son **orientativas** y no sustituyen consejo médico.
+
+Si el entorno de empaquetado (p. ej. AppMint) expone integraciones como Health Connect, la app puede escribir información de una sesión al cerrar un día de entrenamiento, **solo** con los permisos que el sistema solicite y el usuario acepte. Rechazar esos permisos no impide usar el núcleo de la app.
+
+## 8. Menores
+
+La app no está pensada para solicitar datos de niños. El ejercicio físico debe realizarse con criterio adulto o supervisión adecuada.
+
+## 9. Conservación y eliminación
+
+- Desinstalar la app o borrar datos de la aplicación en el sistema elimina el estado local.  
+- La opción de **reset de fábrica** en Más borra el progreso local de THE EMPIRE.  
+- Los backups `.empire` que hayas copiado fuera de la app solo se borran si los eliminás vos.
+
+## 10. Cambios a esta política
+
+Si hay cambios relevantes, se actualizará la fecha de esta política y el texto disponible en la app y/o en este repositorio.
+
+## 11. Contacto
+
+- Soporte / privacidad: **support.theempire@proton.me**  
+- Negocios / prensa: **business.theempire@proton.me**
+
+---
+
+THE EMPIRE — calistenia offline, progreso en tu dispositivo.
