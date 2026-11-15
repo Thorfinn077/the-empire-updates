@@ -1,17 +1,14 @@
 {
-  "version": "1.26.24",
-  "title": "THE EMPIRE 1.26.24 — Menos ruido. Más verdad.",
-  "notes": "Inicio limpio sin cajas de stats que se repetían. Meta semanal clara, progreso por días cerrados de verdad, sesión más enfocada.",
+  "version": "1.26.27",
+  "title": "THE EMPIRE 1.26.27 — Limpieza de pantalla",
+  "notes": "Se sacó Bloquear día, se sacó Estado de hoy y el Resumen del Mes ahora solo se muestra en pantalla (ya no copia).",
   "changelog": [
-    "Inicio sin cajas de Racha, Sesiones, Series, Semanas y Logros",
-    "Una línea de progreso: días de entrenamiento cerrados",
-    "Coach con protocolo y meta semanal (ej. 2/4)",
-    "Meta semanal: aviso cuando falta 1 día",
-    "Barra de sesión con ejercicios X/Y",
-    "Historial, rangos, cierre de semana y backup se mantienen"
+    "Se eliminó la tarjeta Estado de hoy (energía / sueño / dolor)",
+    "Se eliminó el botón Resumen del mes que solo copiaba",
+    "El botón ahora se llama «Resumen del Mes» y solo muestra el resumen en pantalla"
   ],
-  "apkUrl": "https://github.com/Thorfinn077/the-empire-updates/releases/download/1.26.24/THE.EMPIRE.apk",
+  "apkUrl": "https://github.com/Thorfinn077/the-empire-updates/releases/download/1.26.26/THE.EMPIRE.apk",
   "minVersion": "1.0.0",
   "force": false,
-  "publishedAt": "2026-11-12"
+  "publishedAt": "2026-11-14"
 }
