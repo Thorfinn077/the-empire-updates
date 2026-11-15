@@ -1,14 +1,19 @@
 {
-  "version": "1.26.27",
-  "title": "THE EMPIRE 1.26.27 — Limpieza de pantalla",
-  "notes": "Se sacó Bloquear día, se sacó Estado de hoy y el Resumen del Mes ahora solo se muestra en pantalla (ya no copia).",
+  "version": "1.26.28",
+  "title": "THE EMPIRE 1.26.28 — Capa cinematográfica + rutina adaptada",
+  "notes": "Onboarding de 11 pasos que programa la rutina, Gate/Splash cinematográficos, EmpireFX global (estrellas, meteoritos, nebulosa), capa visual en Entrenar, lugar Casa/Plaza/Gym y botones/drawer refinados.",
   "changelog": [
-    "Se eliminó la tarjeta Estado de hoy (energía / sueño / dolor)",
-    "Se eliminó el botón Resumen del mes que solo copiaba",
-    "El botón ahora se llama «Resumen del Mes» y solo muestra el resumen en pantalla"
+    "Onboarding de 11 pasos real que genera la rutina adaptada",
+    "Gate + Splash cinematográficos (partículas, orbes, rays)",
+    "EmpireFX global en toda la app (estrellas, meteoritos, constelaciones, nebulosa)",
+    "Capa visual en Entrenar (fondo vivo, pulse, glow, entrada escalonada)",
+    "Lugar de entrenamiento: Casa / Plaza / Gym",
+    "Botones con brillo + press glow + ripple",
+    "Drawer oculto + FAB superior izquierdo",
+    "Respeta prefers-reduced-motion"
   ],
-  "apkUrl": "https://github.com/Thorfinn077/the-empire-updates/releases/download/1.26.26/THE.EMPIRE.apk",
+  "apkUrl": "https://github.com/Thorfinn077/the-empire-updates/releases/download/1.26.28/THE.EMPIRE.apk",
   "minVersion": "1.0.0",
   "force": false,
-  "publishedAt": "2026-11-14"
+  "publishedAt": "2026-11-15"
 }
